@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZsHnH3iLXRlA+VsVNmi1f/oiT+mHaoNC8GSkeZzcywkQQld8+HdszPWSFI+LvtxSNRsXxs/4IGJ6MdOaOGoXPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikec\\RiderProjects\\XamlAttributeDemo\\XamlAttributeDemo\\XamlAttributeDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikec\\.nuget\\packages\\jetbrains.annotations\\2023.2.0\\jetbrains.annotations.2023.2.0.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.5\\microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.5\\microsoft.windowsdesktop.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.5\\microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
+    "C:\\Users\\mikec\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.5\\microsoft.netcore.app.host.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
